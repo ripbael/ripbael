@@ -51,8 +51,5 @@
 ## Connect with me. ☆
 
 <p>
-<a href="https://github.com/ripbael"><img src="https://img.shields.io/badge/-ripbael-black?logo=github&style=flat-square"/></a>
-<a href="https://instagram.com/rip.lauret"><img src="https://img.shields.io/badge/-ripbael-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:ripbaeel@gmail.com"><img src="https://img.shields.io/badge/-ripbaeel@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/ripbaeel"><img src="https://img.shields.io/badge/-ripbaeel-blue?logo=twitter&style=flat-square"/></a>
 </p>
