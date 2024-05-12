@@ -1,5 +1,5 @@
    ###   Hello World! 
-<img alt="GIF" src="https://emoji.gg/emoji/43414-goth-oldcross" width = 200/>
+<img alt="GIF" src="[![goth_oldcross](https://cdn3.emoji.gg/emojis/43414-goth-oldcross.png)](https://emoji.gg/emoji/43414-goth-oldcross)" width = 200/>
 
 <hr>
 
@@ -27,30 +27,30 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
 
 </tr>
 
  <tr>
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
 
@@ -68,15 +68,15 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="3%">
 <img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
 </td>
 </tr>
