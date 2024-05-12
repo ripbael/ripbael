@@ -51,5 +51,5 @@
 ## Connect with me. ☆
 
 <p>
-<a href="mailto:ripbaeel@gmail.com"><img src="https://img.shields.io/badge/-ripbaeel@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="mailto:ripbael@gmail.com"><img src="https://img.shields.io/badge/-ripbael@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
